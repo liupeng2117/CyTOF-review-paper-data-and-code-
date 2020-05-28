@@ -1,0 +1,7 @@
+﻿alias,pop,parent,dims,gating_method,gating_args,collapseDataForGating,groupBy,preprocessing_method,preprocessing_args
+B cells,--,root,"Dy163Di,Nd145Di",tailgate,,,,,
+non-B,--,root,"Nd144Di,Yb171Di",tailgate,,,,,
+total B cells,+-,B cells,"Nd144Di,Er170Di",gate_mindensity,,,,,
+*,+/-,total B cells,Sm154Di,gate_mindensity,,,,,
+non-Tnon-NK,--,non-B,"Er170Di,Dy163Di",gate_mindensity,,,,,
+*,-/++/-,non-Tnon-NK,"Sm147Di,Yb173Di",gate_mindensity,,,,,
